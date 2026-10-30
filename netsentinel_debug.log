@@ -1,0 +1,406 @@
+2026-07-01 13:15:51,019 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:15:51,020 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 13:15:51,020 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:15:51,051 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:15:51,256 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:15:52,423 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:16:53,058 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:16:53,250 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:16:53,251 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:24:05,165 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:24:05,166 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 13:24:05,166 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:24:05,191 [INFO    ] capture: CaptureEngine started — source: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:24:05,388 [INFO    ] capture: Loading PCAP: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:24:09,897 [INFO    ] capture: Loaded 123994 packets — beginning replay at 10× speed.
+2026-07-01 13:26:36,506 [INFO    ] capture: PCAP replay complete — 123994 packets processed.
+2026-07-01 13:26:36,662 [INFO    ] netsentinel.main: Capture finished | packets=123994 | alerts=0 | chains=0
+2026-07-01 13:26:36,663 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:29:42,885 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:29:42,886 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:29:42,886 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:29:42,889 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:29:43,118 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:29:44,331 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:30:23,924 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:30:23,924 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 13:30:23,925 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:30:23,951 [INFO    ] capture: CaptureEngine started — source: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:30:24,162 [INFO    ] capture: Loading PCAP: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 13:30:30,207 [INFO    ] capture: Loaded 123994 packets — beginning replay at 10× speed.
+2026-07-01 13:30:44,100 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:30:44,586 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:30:44,587 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:32:25,455 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:32:25,456 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:32:25,456 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:32:25,458 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:32:25,458 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:32:28,161 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:33:01,603 [INFO    ] capture: PCAP replay complete — 123994 packets processed.
+2026-07-01 13:33:02,103 [INFO    ] netsentinel.main: Capture finished | packets=123994 | alerts=0 | chains=0
+2026-07-01 13:33:02,103 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:33:28,728 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:33:29,206 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:33:29,206 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:39:10,967 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:39:10,968 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:39:10,968 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:10,971 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:10,971 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:13,836 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:39:53,943 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:39:53,944 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 13:39:53,944 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:53,969 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:53,969 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:39:56,329 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:40:13,597 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:40:13,659 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:40:13,659 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:40:57,486 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:40:57,690 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:40:57,690 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:43:39,458 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:43:39,458 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:43:39,458 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:43:39,460 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:43:39,461 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:43:42,186 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:44:42,427 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:44:42,626 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=0 | chains=0
+2026-07-01 13:44:42,626 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:46:19,106 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:46:19,107 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:46:19,107 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:46:19,110 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:46:19,110 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:46:29,377 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:46:29,430 [INFO    ] capture: PCAP replay complete — 9 packets processed.
+2026-07-01 13:47:18,516 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:47:18,517 [INFO    ] ai_brief: AI brief generation disabled (--no-ai).
+2026-07-01 13:47:18,518 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:47:18,520 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:47:18,521 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:47:30,245 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:47:48,955 [INFO    ] anomaly_engine: Isolation Forest trained on 304 baseline flow vectors. Anomaly scoring active.
+2026-07-01 13:49:36,816 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:49:51,484 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 13:49:51,485 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 13:49:51,485 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:49:51,517 [INFO    ] capture: CaptureEngine started — source: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:49:51,517 [INFO    ] capture: Loading PCAP: 2020-11-13-traffic-analysis-exercise.pcap
+2026-07-01 13:50:01,820 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:03,667 [INFO    ] capture: Loaded 22199 packets — beginning replay at 10× speed.
+2026-07-01 13:50:08,770 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:09,727 [INFO    ] anomaly_engine: Isolation Forest trained on 936 baseline flow vectors. Anomaly scoring active.
+2026-07-01 13:50:10,694 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:11,817 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:13,530 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:16,363 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:19,210 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:20,388 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:25,262 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:28,918 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:31,261 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:33,170 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:35,916 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:40,007 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:49,547 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:51,333 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:54,913 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:50:57,556 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:01,413 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:05,699 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:07,606 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:10,379 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:15,789 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:18,589 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:19,628 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:22,561 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:27,971 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:29,204 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:30,818 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:39,314 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:41,085 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:42,191 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:44,746 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:47,113 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:48,205 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:51,830 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:53,689 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:54,879 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:56,455 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:58,164 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:51:59,918 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:03,024 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:05,665 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:07,414 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:11,457 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:13,830 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:14,919 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:17,280 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:18,876 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:20,710 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:22,597 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:24,220 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:27,125 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:28,962 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:29,947 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:30,096 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:31,279 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:31,826 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:34,462 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:34,725 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:37,388 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:38,298 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:38,563 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:40,282 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:42,715 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:43,796 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:43,942 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:45,662 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:47,529 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:47,873 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:49,563 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:49,726 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:51,496 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:52,584 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:54,183 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:55,507 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:52:58,204 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:03,806 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:07,934 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:08,031 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:09,702 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:11,421 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:12,895 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:13,077 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:15,572 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:16,542 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:18,444 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:19,403 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:20,804 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:22,088 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:23,823 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:25,890 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:26,495 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:27,822 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:28,731 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:29,455 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:31,123 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:32,292 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:34,085 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:34,172 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:36,003 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:37,065 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:37,089 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:38,181 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:39,448 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:41,099 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:43,680 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:45,790 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:46,803 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:46,839 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:48,124 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:48,527 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:49,810 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:50,285 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:52,725 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:54,154 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:55,878 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:53:58,814 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:00,420 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:00,673 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:01,046 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:01,824 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:02,145 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:04,540 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:07,087 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:08,313 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:11,112 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:12,358 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:13,079 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:14,535 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:15,111 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:17,591 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:17,670 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:18,711 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:19,516 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:20,971 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:21,371 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:23,911 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:24,590 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:27,232 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:29,016 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:30,193 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:31,967 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:33,187 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:33,885 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:35,658 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:36,202 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:36,707 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:38,536 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:39,151 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:40,188 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:40,864 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:41,699 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:44,507 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:44,770 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:46,519 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:47,990 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:49,011 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:50,465 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:50,748 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:52,480 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:53,143 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:53,882 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:55,230 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:56,411 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:54:57,201 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:01,227 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:03,331 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:06,820 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:08,170 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:09,970 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:12,038 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:13,798 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:17,011 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:18,578 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:19,389 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:21,153 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:26,770 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:29,060 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:30,291 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:33,360 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:34,969 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:38,095 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:39,805 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:42,530 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:43,707 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:47,461 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:48,731 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:50,183 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:51,643 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:52,681 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:55,121 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:57,005 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:57,886 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:55:59,952 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:03,650 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:05,435 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:06,423 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:07,853 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:09,357 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:11,140 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.200.8     | mitre=T1499 | stage=Impact
+2026-07-01 13:56:11,140 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.200.8     | stages=Exfiltration → Impact | confidence=62.1% | severity=WARNING
+2026-07-01 13:56:11,141 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.200.8     | confidence=62.1% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 13:56:11,499 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:12,665 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:14,323 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:18,216 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:18,772 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:19,664 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:27,053 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:28,583 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:30,170 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:32,214 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:33,121 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:35,119 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:38,305 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:44,928 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:46,451 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:48,171 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:50,346 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:52,355 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:53,912 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:54,579 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:54,580 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.200.8     | stages=Exfiltration → Impact | confidence=62.2% | severity=WARNING
+2026-07-01 13:56:54,581 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.200.8     | confidence=62.2% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 13:56:55,196 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:55,568 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:57,644 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:56:59,790 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:00,699 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:01,795 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:01,967 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:03,054 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:03,299 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:04,365 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:05,524 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:06,177 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:07,742 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:08,073 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:08,970 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:10,640 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:11,842 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:13,538 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:16,930 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:18,038 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:18,234 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:19,467 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:20,594 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:21,660 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:22,221 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:22,247 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:57:22,553 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=134 | chains=2
+2026-07-01 13:57:22,553 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 13:57:30,111 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:33,109 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:57:41,186 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:58:22,765 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.200.8     | mitre=T1499 | stage=Impact
+2026-07-01 13:58:22,766 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.200.8     | stages=Exfiltration → Impact | confidence=62.8% | severity=WARNING
+2026-07-01 13:58:22,767 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.200.8     | confidence=62.8% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 13:59:15,613 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:15,613 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.200.8     | stages=Exfiltration → Impact | confidence=63.0% | severity=WARNING
+2026-07-01 13:59:15,614 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.200.8     | confidence=63.0% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 13:59:16,882 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:21,766 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:24,036 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:26,498 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:28,582 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:30,422 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:33,212 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:34,993 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:37,089 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:40,680 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:41,911 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:42,087 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:43,562 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:44,831 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:45,505 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:45,836 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.200.8     | mitre=T1048 | stage=Exfiltration
+2026-07-01 13:59:45,846 [INFO    ] capture: PCAP replay complete — 22199 packets processed.
+2026-07-01 13:59:45,976 [INFO    ] netsentinel.main: Capture finished | packets=22199 | alerts=134 | chains=2
+2026-07-01 13:59:45,976 [INFO    ] netsentinel.main: Replay complete — dashboard will close in 10 seconds.
+2026-07-01 14:27:54,035 [INFO    ] alerts: Alert log → netsentinel.log
+2026-07-01 14:27:54,036 [INFO    ] ai_brief: No GEMINI_API_KEY found — using template briefs. Set the environment variable or pass --gemini-key to enable AI briefs.
+2026-07-01 14:27:54,036 [INFO    ] netsentinel.main: Starting NetSentinel AI | source=2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 14:27:54,063 [INFO    ] capture: CaptureEngine started — source: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 14:27:54,063 [INFO    ] capture: Loading PCAP: 2022-11-03-Emotet-epoch4-infection-with-IcedID.pcap
+2026-07-01 14:28:57,230 [INFO    ] capture: Loaded 123994 packets — beginning replay at 10× speed.
+2026-07-01 14:29:01,336 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:29:06,570 [INFO    ] anomaly_engine: Isolation Forest trained on 3124 baseline flow vectors. Anomaly scoring active.
+2026-07-01 14:29:46,650 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.1.132     | mitre=T1048 | stage=Exfiltration
+2026-07-01 14:29:46,650 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=57.3% | severity=WARNING
+2026-07-01 14:29:46,651 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=57.3% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:29:47,515 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:30:11,173 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:30:11,174 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=57.3% | severity=WARNING
+2026-07-01 14:30:11,175 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=57.3% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:31:20,658 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:31:20,659 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=57.3% | severity=WARNING
+2026-07-01 14:31:20,660 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=57.3% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:31:35,210 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:31:35,210 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=64.7% | severity=WARNING
+2026-07-01 14:31:35,212 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=64.7% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:32:14,747 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:33:50,405 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.1.132     | mitre=T1048 | stage=Exfiltration
+2026-07-01 14:33:50,405 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=64.6% | severity=WARNING
+2026-07-01 14:33:50,407 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=64.6% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:34:36,663 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:39:31,876 [INFO    ] alerts: [CRITICAL] SYN_FLOOD | src=192.168.1.132     | mitre=T1499 | stage=Impact
+2026-07-01 14:39:31,876 [WARNING ] chain_engine: [CHAIN] ATTACK CHAIN | src=192.168.1.132     | stages=Exfiltration → Impact | confidence=64.6% | severity=WARNING
+2026-07-01 14:39:31,878 [WARNING ] alerts: [CHAIN] CONFIRMED | src=192.168.1.132     | confidence=64.6% | severity=WARNING | stages=Exfiltration → Impact
+2026-07-01 14:41:14,724 [INFO    ] alerts: [WARNING] DNS_TUNNEL | src=192.168.1.132     | mitre=T1048 | stage=Exfiltration
+2026-07-01 14:42:30,469 [INFO    ] capture: PCAP replay complete — 32482 packets processed.
